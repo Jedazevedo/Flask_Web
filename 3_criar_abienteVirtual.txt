@@ -1,0 +1,12 @@
+1) python -m venv venv
+
+2) ativar o mabiente virtual: 
+  ativa -> .\venv\Scripts\activate 
+  desativa -> deactivate 
+
+3) pip freeze:
+  mostra todos os pacotes instalados no python
+
+
+  ativar flask:
+   flask --app hello run
