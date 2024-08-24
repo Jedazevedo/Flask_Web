@@ -1,5 +1,6 @@
 venv
 configuracoes_vscode
+3_criar_abienteVirtual.txt
 # Django #
 *.log
 *.pot
